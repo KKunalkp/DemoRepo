@@ -1,0 +1,22 @@
+D:\Kunal\Projects\3Tier Projects\UCO\SMS_Generation\SMS_Generation\bin\Debug\SMS_Generation.exe.config
+D:\Kunal\Projects\3Tier Projects\UCO\SMS_Generation\SMS_Generation\bin\Debug\SMS_Generation.exe
+D:\Kunal\Projects\3Tier Projects\UCO\SMS_Generation\SMS_Generation\bin\Debug\SMS_Generation.pdb
+D:\Kunal\Projects\3Tier Projects\UCO\SMS_Generation\SMS_Generation\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Kunal\Projects\3Tier Projects\UCO\SMS_Generation\SMS_Generation\obj\Debug\SMS_Generation.exe
+D:\Kunal\Projects\3Tier Projects\UCO\SMS_Generation\SMS_Generation\obj\Debug\SMS_Generation.pdb
+D:\Kunal\Projects\3Tier Projects\UCO\SMS_Generation\SMS_Generation\obj\Debug\SMS_Generation.csprojResolveAssemblyReference.cache
+D:\Kunal\Projects\3Tier Projects\UCO\Extra UCO\SMS_Generation\SMS_Generation\bin\Debug\SMS_Generation.exe.config
+D:\Kunal\Projects\3Tier Projects\UCO\Extra UCO\SMS_Generation\SMS_Generation\obj\Debug\SMS_Generation.exe
+D:\Kunal\Projects\3Tier Projects\UCO\Extra UCO\SMS_Generation\SMS_Generation\obj\Debug\SMS_Generation.pdb
+D:\Kunal\Projects\3Tier Projects\UCO\Extra UCO\SMS_Generation\SMS_Generation\bin\Debug\SMS_Generation.exe
+D:\Kunal\Projects\3Tier Projects\UCO\Extra UCO\SMS_Generation\SMS_Generation\bin\Debug\SMS_Generation.pdb
+D:\Kunal\Projects\3Tier Projects\UCO\Extra UCO\SMS_Generation\SMS_Generation\obj\Debug\SMS_Generation.csprojResolveAssemblyReference.cache
+D:\Kunal\Projects\3Tier Projects\UCO\Modules\SMS_Generation\SMS_Generation\bin\Debug\SMS_Generation.exe.config
+D:\Kunal\Projects\3Tier Projects\UCO\Modules\SMS_Generation\SMS_Generation\bin\Debug\SMS_Generation.exe
+D:\Kunal\Projects\3Tier Projects\UCO\Modules\SMS_Generation\SMS_Generation\bin\Debug\SMS_Generation.pdb
+D:\Kunal\Projects\3Tier Projects\UCO\Modules\SMS_Generation\SMS_Generation\obj\Debug\SMS_Generation.exe
+D:\Kunal\Projects\3Tier Projects\UCO\Modules\SMS_Generation\SMS_Generation\obj\Debug\SMS_Generation.pdb
+D:\Kunal\Projects\3Tier Projects\UCO\Modules\SMS_Generation\SMS_Generation\obj\Debug\SMS_Generation.csprojResolveAssemblyReference.cache
+D:\Kunal\Projects\3Tier_Projects\UCO\Modules\SMS_Generation\SMS_Generation\bin\Debug\SMS_Generation.exe.config
+D:\Kunal\Projects\3Tier_Projects\UCO\Modules\SMS_Generation\SMS_Generation\obj\Debug\SMS_Generation.exe
+D:\Kunal\Projects\3Tier_Projects\UCO\Modules\SMS_Generation\SMS_Generation\obj\Debug\SMS_Generation.pdb
