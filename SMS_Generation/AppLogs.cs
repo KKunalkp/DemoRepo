@@ -130,7 +130,7 @@ namespace SMS_Generation
             {
                 Directory.CreateDirectory(mErrorLogPath);
             }
-
+            //Added Git Repo
             mErrorLogPath = mErrorLogPath + "UCO_SMS_Generation" + DateTime.Now.ToString("dd-MMM-yyyy HH") + ".txt";
             return mErrorLogPath;
         }
